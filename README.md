@@ -31,7 +31,7 @@ October 2025 | Version 1.0
 
 ## The Problem
 
-Billions of euros are donated to NGOs and relief organizations every year — yet for donors, the central question often goes unanswered: 
+Billions of euros are donated to NGOs and relief organizations every year — yet for donors, the central question often goes unanswered:  
 **Did my money actually reach those who needed it?**
 
 Trustfundr makes the answer public, cryptographically secure, and permanently immutable.
