@@ -2,7 +2,7 @@
 **Donation Transparency. Verified. Immutable.**
 
 **WHITEPAPER**  
-March 2026 | Version 1.0  
+October 2025 | Version 1.0  
 
 ---
 
