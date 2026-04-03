@@ -235,7 +235,7 @@ This ensures that Trustfundr is not only a transparency provider, but also **ful
 
 - https://trustfundr.org  
 - https://github.com/trustfundr/documentation  
-- Financial support for developing the platform and covering basic necessary monthly costs (4-6 months, ~350€/month) servers, licences and subscriptions is welcome: https://linktr.ee/trustfundr.
+- Financial support for developing the platform and covering basic necessary monthly costs (4-6 months, ~350€/month) servers, licences and subscriptions would be greatly appreciated: https://linktr.ee/trustfundr.
 - If you´ld be interested in becoming a sponsor, please contact us at info@trustfundr.org.
 
 ---
